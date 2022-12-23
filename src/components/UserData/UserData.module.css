@@ -1,0 +1,9 @@
+.Ul{
+    padding: 50px;
+    text-align: center;
+}
+.name{
+    border: 1.6px solid #1c1c20;
+    margin-top: 25px;
+    padding: 10px;
+}

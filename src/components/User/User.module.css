@@ -1,0 +1,12 @@
+.userInput{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.wcMsg{
+    text-align: center;
+    margin-top: 30px;
+}
+.inputField{
+    padding: 5px;
+}

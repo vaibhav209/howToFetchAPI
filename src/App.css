@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color: #0e146c;
+  margin: 10px;
+  border-color: 2px solid rgb(34, 23, 23);
+  border-style:none;
+}
+.Header{
+  color: white;
+  padding: 25px;
+}
